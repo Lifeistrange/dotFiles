@@ -1,0 +1,10 @@
+[user]
+    name = yuanbaoping
+    email = yuanbaoping@bbdservice.com
+[alias]
+	st = status
+    ci = commit
+    br = branch
+    co = checkout
+[push]
+	default = simple
